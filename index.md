@@ -17,14 +17,15 @@
 Here are the following members of Cassiopeia.
 
 <ul>
-<li><b>[Ana Araujo](https://acatarinaoaraujo.github.io/)</b>
-<li><b>[Giorgio Tran](https://giorgio-tran.github.io/)</b>
+<li><b><a href = "https://acatarinaoaraujo.github.io/"  target="_blank">Ana Araujo</a></b></li>
+<li><b><a href = "https://giorgio-tran.github.io/"  target="_blank">Giorgio Tran</a></b>
 </li>
-<li><b>[Kayla Hirano](https://khirano7.github.io/)</b></li>
-<li><b>[Pauline Peihan Wu](https://pauline-peihan-wu.github.io/)</b>
+<li><b><a href = "https://khirano7.github.io/"  target="_blank">Kayla Hirano</a></b>
 </li>
-<li><b>[Rob Godfrey](https://robertgodfrey.github.io/)</b>
+<li><b><a href = "https://pauline-peihan-wu.github.io/"  target="_blank">Pauline Peihan Wu</a></b>
 </li>
-<li><b>[Shin Saito](https://saitoshi.github.io/)</b>
+<li><b><a href = "https://robertgodfrey.github.io/"  target="_blank">Rob Godfrey</a></b>
+</li>
+<li><b><a href = "https://saitoshi.github.io/"  target="_blank">Shin Saito</a></b>
 </li>
 </ul>
