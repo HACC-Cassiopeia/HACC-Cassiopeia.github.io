@@ -21,15 +21,10 @@ Here are the following members of Cassiopeia.
 <li><b>[Giorgio Tran](https://giorgio-tran.github.io/)</b>
 </li>
 <li><b>[Kayla Hirano](https://khirano7.github.io/)</b></li>
-<li>
 <li><b>[Pauline Peihan Wu](https://pauline-peihan-wu.github.io/)</b>
 </li>
 <li><b>[Rob Godfrey](https://robertgodfrey.github.io/)</b>
 </li>
-<li><b>[Shin Saito](https://satioshi.github.io/)</b>
-<ul>
-<li></li>
-<li></li>
-</ul>
+<li><b>[Shin Saito](https://saitoshi.github.io/)</b>
 </li>
 </ul>
