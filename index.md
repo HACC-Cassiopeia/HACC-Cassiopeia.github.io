@@ -10,6 +10,8 @@
 
 # OVERVIEW
 
+At Cassiopeia, we have created an application for one of the challenges of the <b><a href = "https://hacc.hawaii.gov/hacc-judging-criteria/">Hawaii Annual Code Challenge (HACC)</a><b> was to create a dashboard like application to manage upcoming legislations for the Department of Education (DOE).
+
 # USER GUIDES
 
 # MEMBERS
