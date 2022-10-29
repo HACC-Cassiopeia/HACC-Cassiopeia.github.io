@@ -21,13 +21,19 @@ The application was built using JavaScript React and Meteor.
 The application comes with different pages. <br/>
 
 <ul>
-<li><b>Landing Page and Side Menu (Pre-Login)</b> <br/>
-This the homepage where every user will land. Here they will login or see any upcoming notices with the system. 
-<img src = "image/landingA.png">
-<br/>
-<img src="image/landingB.png">
+<li><b>Log In Page</b> <br/>
+<image src = "image/landing.png">
 </li>
-The sidemenu which is a component available in every page is collapsable on the desktop. When widened it will have the icons and the titles, but in collapse mode it will only have the icons.
+<li><b>Home Page</b><br/>
+<image src="image/home.png">
+<li><b>Bill Page</b><br/>
+<image src="image/bill.png">
+</li>
+<li><b>House Bill</b><br/>
+<image src="image/houseBill.png">
+</li>
+<li><b>Sign Out Confirmation</b><br/>
+<image src="image/signout.png">
 </ul>
 
 ## DEVELOPER’S GUIDE
