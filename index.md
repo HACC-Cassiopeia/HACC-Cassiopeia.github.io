@@ -12,60 +12,56 @@
 
 # OVERVIEW
 
-<div style={}>
-At Cassiopeia, we have created an application for one of the challenges of the <b><a href = "https://hacc.hawaii.gov/hacc-judging-criteria/">Hawaii Annual Code Challenge (HACC)</a></b> was to create a dashboard like application to manage upcoming legislations for the Department of Education (DOE).
-<br/>
-The application was built using JavaScript React and Meteor.
+We created this legislative-tracking application for the Hawaii State Department of Education as part of the <b><a href = "https://hacc.hawaii.gov/hacc-judging-criteria/">2022 Hawaii Annual Code Challenge (HACC)</a></b> The goal of this application is to not only help the HI DOE accomplish its mission but also to improve the educational environment for future Hawaii students.
+
+This application was built using JavaScript, React, Meteor, and MongoDB.
 
 # USER GUIDES
 
 ## PAGES AND COMPONENTS
 
-The application comes with different pages. <br/>
-
 <ul>
 <li><b>Log In Page</b> <br/>
-<image src = "image/landing.png">
+<image src = "image/landing.png"/>
 </li>
 <li><b>Home Page</b><br/>
-<image src="image/home.png">
+<image src="image/home.png"/>
 <li><b>Bill Page</b><br/>
-<image src="image/bill.png">
+<image src="image/bill.png"/>
 </li>
 <li><b>House Bill</b><br/>
-<image src="image/houseBill.png">
+<image src="image/houseBill.png"/>
 </li>
 <li><b>Sign Out Confirmation</b><br/>
-<image src="image/signout.png">
+<image src="image/signout.png"/>
 </ul>
 
 ## DEVELOPER’S GUIDE
 
-To download the source code please head over to the repository page and download the master branch.<br/>
-To run the native app, cd into the master branch directory of your computers native terminal and get to the app folder.
+To download the source code, please head over to the [repository page](https://github.com/HACC2022/Cassiopeia) and download the master branch.<br/>
+To run the app, navigate to the master branch directory in your terminal and open the `app` folder.
 <img src ="https://shocking-development.github.io/doc/open.png">
-Make sure you have meteor and node installed to your system. If you already have it installed, run the following command within the app folder
+Make sure you have Meteor and Node installed to your system. Once these programs are installed, run the following commands in the app folder:
 
+```
+meteor npm install
+```
 ```
 meteor npm run start
 ```
 
-then head to the following: <b><a href ="http://localhost:3000">http://localhost:3000</a></b>
+Then navigate to <b><a href ="http://localhost:3000">http://localhost:3000</a></b> in your web browser.
 
 <img src = "https://shocking-development.github.io/doc/run.png">
-To modify the native source code, it is highly recommended that you use IntelliJ Idea to modify the source code to your liking. You can download it here.
+If you'd like to modify the source code, it is recommended that you use [IntelliJ Idea](https://www.jetbrains.com/idea/) or a similar IDE.
 
 # MEMBERS
-
-Here are the following members of Cassiopeia.
 
 <ul>
 <li><b><a href = "https://acatarinaoaraujo.github.io/"  target="_blank">Ana Araujo</a></b></li>
 <li><b><a href = "https://giorgio-tran.github.io/"  target="_blank">Giorgio Tran</a></b>
 </li>
 <li><b><a href = "https://khirano7.github.io/"  target="_blank">Kayla Hirano</a></b>
-</li>
-<li><b><a href = "https://pauline-peihan-wu.github.io/"  target="_blank">Pauline Peihan Wu</a></b>
 </li>
 <li><b><a href = "https://robertgodfrey.github.io/"  target="_blank">Rob Godfrey</a></b>
 </li>
