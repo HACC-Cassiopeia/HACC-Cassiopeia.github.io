@@ -1,8 +1,10 @@
 # Cassiopeia
 
-# TABLE OF CONTENTS
+# Video Introduction
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0rt54E251uU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# TABLE OF CONTENTS
 
 - [OVERVIEW](#OVERVIEW)
 - [USER GUIDES](#USER_GUIDES)
