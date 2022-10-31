@@ -1,4 +1,4 @@
-# Cassiopeia
+# **DOELT**
 
 # **Video Introduction**
 
@@ -20,23 +20,23 @@ This application was built using JavaScript, React, Meteor, and MongoDB.
 
 ## **PAGES AND COMPONENTS**
 
-<img src="image/log-in.png" />
 <p style="text-align: center;">Log-in Page</p>
+<img src="image/log-in.png" />
 
-<img src="image/home.png" />
 <p style="text-align: center;">Home Page</p>
+<img src="image/home.png" />
 
-<img src="image/all-bills.png" />
 <p style="text-align: center;">All Bills Page</p>
+<img src="image/all-bills.png" />
 
-<img src="image/saved-bills.png" />
 <p style="text-align: center;">DOE Bills Page</p>
+<img src="image/saved-bills.png" />
 
+<p style="text-align: center;">View Bill Page</p>
 <img src="image/edit-bill.png" />
-<p style="text-align: center;">Edit Bill Page</p>
 
-<img src="image/edit-testimony.png" />
 <p style="text-align: center;">Edit Testimony Page</p>
+<img src="image/edit-testimony.png" />
 
 ## **DEVELOPER’S GUIDE**
 
@@ -53,9 +53,9 @@ meteor npm install
 meteor npm run start
 ```
 
-Then navigate to <b><a href ="http://localhost:3000">http://localhost:3000</a></b> in your web browser.
-
 <img src="image/terminal.png" />
+
+Then, navigate to <b><a href ="http://localhost:3000">http://localhost:3000</a></b> in your web browser.
 
 If you'd like to modify the source code, it is recommended that you use [IntelliJ Idea](https://www.jetbrains.com/idea/) or a similar IDE.
 
