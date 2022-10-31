@@ -2,7 +2,7 @@
 
 # TABLE OF CONTENTS
 
----
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0rt54E251uU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - [OVERVIEW](#OVERVIEW)
 - [USER GUIDES](#USER_GUIDES)
@@ -10,6 +10,7 @@
 
 # OVERVIEW
 
+<div style={}>
 At Cassiopeia, we have created an application for one of the challenges of the <b><a href = "https://hacc.hawaii.gov/hacc-judging-criteria/">Hawaii Annual Code Challenge (HACC)</a></b> was to create a dashboard like application to manage upcoming legislations for the Department of Education (DOE).
 <br/>
 The application was built using JavaScript React and Meteor.
